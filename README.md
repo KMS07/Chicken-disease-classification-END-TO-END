@@ -11,3 +11,6 @@
 7. Update the pipeline 
 8. Update the main.py
 9. Update the dvc.yaml
+
+##
+- Save URI: 904810237704.dkr.ecr.eu-north-1.amazonaws.com/cnnclassifier-chickendisease

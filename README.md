@@ -1,16 +1,6 @@
 # Chicken-disease-classification-END-TO-END
 
-## Workflows
+Classfies a chicken faecals and predicts whether chicken is infected with coccidiosis or its healthy 
+Deployed application on Amazon EC2 instance thorugh containerization
 
-1. Update config.yaml
-2. Update secrets.yaml [Optional]
-3. Update params.yaml
-4. Update the entity
-5. Update the configuration manager in src config
-6. Update the components
-7. Update the pipeline 
-8. Update the main.py
-9. Update the dvc.yaml
-
-##
-- Save URI: 904810237704.dkr.ecr.eu-north-1.amazonaws.com/cnnclassifier-chickendisease
+Tech stack - Python, Flask, DVC pipeline, AWS
